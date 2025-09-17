@@ -12,3 +12,6 @@ Development Branch. Here lies:
 
 ## Script: KVM-virsh-start-vm.sh
    - Scripts working description.
+
+## Script: firefox-profile-backup.sh
+   - Scripts working description.

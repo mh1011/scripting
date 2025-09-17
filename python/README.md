@@ -5,5 +5,5 @@ Development Branch. Here lies:
    - Untested Scripts.
    - Deprecated Scripts.
 
-## Script: 
+## Script: firefox-profile-backup.py
    - Scripts working description.   
